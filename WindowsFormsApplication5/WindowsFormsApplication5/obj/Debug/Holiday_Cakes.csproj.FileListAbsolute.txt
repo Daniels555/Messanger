@@ -21,6 +21,3 @@ Q:\4й курс\461\Стреколовский Д.С\4 курс\Программ
 Q:\4й курс\461\Стреколовский Д.С\4 курс\Программирование\Задание WSkil\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Orders.resources
 Q:\4й курс\461\Стреколовский Д.С\4 курс\Программирование\Задание WSkil\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Cost_Estimate.resources
 Q:\4й курс\461\Стреколовский Д.С\4 курс\Программирование\Задание WSkil\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Cake.resources
-C:\Users\Kas911\Documents\GitHub\Messanger\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
-C:\Users\Kas911\Documents\GitHub\Messanger\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
-C:\Users\Kas911\Documents\GitHub\Messanger\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

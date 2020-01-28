@@ -36,7 +36,6 @@
             this.operacii = new System.Windows.Forms.DataGridView();
             this.textBox_ID = new System.Windows.Forms.TextBox();
             this.textBox_Name = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGrid_Product)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Ingridients)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Semifinished)).BeginInit();
@@ -126,21 +125,12 @@
             this.textBox_Name.TabIndex = 44;
             this.textBox_Name.Visible = false;
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(184, 31);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 45;
-            this.textBox1.Visible = false;
-            // 
             // Cost_Estimate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(215)))), ((int)(((byte)(127)))));
             this.ClientSize = new System.Drawing.Size(1027, 500);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.textBox_Name);
             this.Controls.Add(this.textBox_ID);
             this.Controls.Add(this.operacii);
@@ -171,6 +161,5 @@
         private System.Windows.Forms.DataGridView operacii;
         private System.Windows.Forms.TextBox textBox_ID;
         private System.Windows.Forms.TextBox textBox_Name;
-        private System.Windows.Forms.TextBox textBox1;
     }
 }
