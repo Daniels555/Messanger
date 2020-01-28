@@ -14,7 +14,7 @@ namespace WindowsFormsApplication5
     public partial class Cost_Estimate : Form
     {
         string serv = "server=localhost;user=root;password=;database=Holiday_Cakes;SslMode=none";
-        private BindingSource bindingSource = new BindingSource();
+        private BindingSource bindingSource = new BindingSource(); //автор крыса
         private BindingSource bindingSource1 = new BindingSource();
         private BindingSource bindingSource2 = new BindingSource();
         private BindingSource bindingSource3 = new BindingSource();
